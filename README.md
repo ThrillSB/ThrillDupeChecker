@@ -20,3 +20,6 @@ This mod follows Hypixel's rules in our interpretation. Similar to most Skyblock
 **O** - Opens Dupe Checker's config. <br />
 **[** - Quick toggle dupe checker. <br />
 You can change these settings in the controls menu.
+
+## Discord
+https://discord.gg/RQGTUBjuaP
