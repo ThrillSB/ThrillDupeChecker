@@ -2,7 +2,7 @@
 **Checks for duped items in Hypixel Skyblock**
 
 # Download
-You can download the mod [here](https://cdn.discordapp.com/attachments/1002433659531427843/1003846440172408942/ThrillDupeChecker-1.1.3). The mod installs dependencies when the game is first launched.
+You can download the mod [here](https://cdn.discordapp.com/attachments/617475555993845762/1003901836220186624/ThrillDupeChecker-1.1.4). The mod installs dependencies when the game is first launched.
 
 ## Information
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data, public api, private api, and item history for duped items. If duped items appear, it will have a tooltip saying DUPED in bold red instead of saying NOT DUPED in bold cyan.
@@ -20,6 +20,3 @@ This mod follows Hypixel's rules in our interpretation. Similar to most Skyblock
 **O** - Opens Dupe Checker's config. <br />
 **[** - Quick toggle dupe checker. <br />
 You can change these settings in the controls menu.
-
-## Discord
-https://discord.gg/RQGTUBjuaP
